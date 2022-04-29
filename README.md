@@ -2,4 +2,4 @@
 
 Blinn-Phong Lighting in Modern OpenGL using diffuse maps and specular maps. 
 
-* Camera rotations done using Quaternions to avoid Gimbal Lock *
+* Camera rotations done using Quaternions to avoid Gimbal Lock
